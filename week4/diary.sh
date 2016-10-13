@@ -3,6 +3,6 @@
 
 read $var
 
-echo `date +%D-%r` $var >> diary.txt
+echo `date +%D-%r` $var >> mydiary.txt
 
 
